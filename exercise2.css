@@ -7,12 +7,12 @@ ul.nav li{
 a{
 	color: white;
 }
-#page_content{
-}
 #about_blue{
 	background-color: #6495ED;
-	border: 3px, solid;
+	border: 10px, solid;
 }
+
+
 #about_blue li{
 	color: blue;
 }
